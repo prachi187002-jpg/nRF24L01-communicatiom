@@ -1,4 +1,4 @@
-# nRF24L01-communicatiom
+# nRF24L01-communication
 
 A simple wireless communication project using **two Arduino UNO boards** and **two nRF24L01 wireless transceiver modules**.
 
